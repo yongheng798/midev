@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-06-12 11:20:33
- * @LastEditTime: 2020-06-12 11:21:36
+ * @LastEditTime: 2020-06-12 11:31:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \mi\src\components\demo\HelloWorld.vue
@@ -22,3 +22,8 @@ export default {
   }
 };
 </script>
+<style scoped>
+.containner {
+  font-size: 18px;
+}
+</style>
