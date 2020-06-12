@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-06-12 11:20:33
- * @LastEditTime: 2020-06-12 11:49:01
+ * @LastEditTime: 2020-06-12 11:52:24
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \mi\src\components\demo\HelloWorld.vue
@@ -25,6 +25,7 @@
     <footer>
       <p>copyright chenpinfu {{fullYear}}</p>
     </footer>
+    <p>change on line</p>
   </div>
 </template>
 
