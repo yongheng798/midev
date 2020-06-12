@@ -2,7 +2,7 @@
   "name": "y",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "sym <1124014326@qq.com>",
+  "author": "sym <925621456@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "better-scroll": "^1.14.1",
     "express": "^4.16.4",
     "mint-ui": "^2.2.13",
@@ -57,7 +57,7 @@
     "vue-template-compiler": "^2.5.2",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^2.11.3",
+    "webpack-dev-server": "^2.11.5",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
